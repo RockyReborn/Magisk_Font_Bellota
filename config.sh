@@ -81,6 +81,11 @@ REPLACE="
 /system/fonts/Roboto-Regular.ttf
 /system/fonts/Roboto-Thin.ttf
 /system/fonts/Roboto-ThinItalic.ttf
+/system/fonts/NotoSansBengali-Regular.ttf
+/system/fonts/NotoSansBengaliUI-bold.ttf
+/system/fonts/NotoSansBengaliUI-Regular.ttf
+/system/fonts/DroidSansBengali.ttf
+/system/fonts/NotoSansBengali-Bold.ttf
 "
 
 ##########################################################################################
